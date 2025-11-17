@@ -13,17 +13,17 @@ I have built and deployed digital products for public use and I am, currently, w
 
 <h2 align='center'> Technical/programming skills: </h2>
 
-  |  **Full-stack**    |     **Data Analytics**    |
-  | -----------------  | ------------------------- |
-  |      React         |          Python           |
-  |      Node.js       |            R              |
-  |    Express.js      |          SPSS             |
-  |     MongoDB        |           JMP             |
-  |       CSS          |         MongoDB           |
-  |    Tailwind CSS    |          MySQL            |
-  |       HTML         |          Tableau          |
-  |       JWT          |                           |
-  |    Restful API     |                           |
+  |        **Full-stack**             |                    **Data Analytics**                           |
+  | -----------------------------     | --------------------------------------------------------------- |
+  |         React                     |      Python (Pandas, SciPy, Numpy, Matplotlib, Seaborn, Plotly) |
+  |        Node.js                    |         R (tidyr, dplyr, ggplot2, plotly)                       |
+  |      Express.js                   |                          SPSS                                   |
+  |       MongoDB                     |                           JMP                                   |
+  |         CSS                       |                         MongoDB, Mongoose                       |
+  |     Tailwind CSS                  |                          MySQL, SQLite                          |
+  |         HTML                      |                          Tableau                                |
+  |         JWT                       |                                                                 |
+  |      Restful API                  |                                                                 |
 
 <h2 align='center'> Automation and Agentic AI tools: </h2>
 <ul>
