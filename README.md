@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="./LinkedInBanner4.png" width="70%" alt="Banner"/>
+  <img src="./LinkedInBanner3.png" width="70%" alt="Banner"/>
 </p>
 
 ## Welcome!
