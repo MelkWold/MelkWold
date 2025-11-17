@@ -2,7 +2,8 @@
   <img src="./LinkedInBanner3.jpeg" width="100%" alt="Banner"/>
 </p>
 
-## Welcome, I'm Melkamu Woldemariam!
+<h1 align='center'> Welcome, I'm Melkamu Woldemariam!</h1>
+
 
 I am a scientist turned software engineer who is passionate about data-driven decision making and creating digital products that enhance business operations and user experience.
 
