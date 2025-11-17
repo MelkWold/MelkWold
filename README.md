@@ -18,12 +18,20 @@ I have built and deployed digital products for public use and I am, currently, w
   |      React         |          Python           |
   |      Node.js       |            R              |
   |    Express.js      |          SPSS             |
-  |       CSS          |           JMP             |
-  |     MongoDB        |         MongoDB           |
+  |     MongoDB        |           JMP             |
+  |       CSS          |         MongoDB           |
   |    Tailwind CSS    |          MySQL            |
   |       HTML         |          Tableau          |
-  |       React        |                           |
-  |      JWT           |                           |
+  |       JWT          |                           |
+  |    Restful API     |                           |
+
+<h2 align='center'> Automation and Agentic AI tools: </h2>
+<ul>
+  <li>n8n</li> 
+  <li>Crew AI</li> 
+  <li>Model Context Protocol (MCP)</li>
+</ul>
+
 
 <h2 align='center'> Project management: </h2>
 <ul>
