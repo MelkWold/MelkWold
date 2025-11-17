@@ -11,7 +11,7 @@ I am fluent in full-stack development using the MERN Stack and data analytics us
 
 I have built and deployed digital products for public use and I am, currently, working on several full-stack and data analytics projects that are ready for deployment. 
 
-## Technical/programming skills:
+<h2 align='center'> Technical/programming skills: </h2>
 
   |  **Full-stack**    |     **Data Analytics**    |
   | -----------------  | ------------------------- |
