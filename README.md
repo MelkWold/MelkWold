@@ -12,17 +12,21 @@ I have built and deployed digital products for public use and I am, currently, w
 
 ## Technical/programming skills:
 
-|  **Full-stack**  |     **Data Analytics**    |
-| -----------------| ------------------------- |
-|   React          |            Python         |
-|   Node.js        |            R              |
-|   Express.js     |            SPSS           |
-|   CSS            |            JMP            |
-|   MongoDB        |            MongoDB        |
-|   Tailwind CSS   |            MySQL          |
-|   HTML           |            Tableau        |
-|   React          |            Python         |
+  |  **Full-stack**    |     **Data Analytics**    |
+  | -----------------  | ------------------------- |
+  |      React         |          Python           |
+  |      Node.js       |            R              |
+  |    Express.js      |          SPSS             |
+  |       CSS          |           JMP             |
+  |     MongoDB        |         MongoDB           |
+  |    Tailwind CSS    |          MySQL            |
+  |       HTML         |          Tableau          |
+  |       React        |                           |
+  |      JWT           |                           |
 
+# Project Management:
+- JIRA/Atlassian
+- Agile frameworks
 
 ## How to reach me:
 - LinkedIn: www.linkedin.com/in/melkamuwoldemariam
