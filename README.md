@@ -25,11 +25,13 @@ I have built and deployed digital products for public use and I am, currently, w
   |       React        |                           |
   |      JWT           |                           |
 
-# Project Management:
-- JIRA/Atlassian
-- Agile frameworks
+<h2 align='center'> Project management: </h2>
+<p align='center'>
+  - JIRA/Atlassian
+  - Agile frameworks
+</p>
 
-## How to reach me:
+<h3 align='center'>How to reach me:</h3> 
 - LinkedIn: www.linkedin.com/in/melkamuwoldemariam
 <!--
 **MelkWold/MelkWold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
