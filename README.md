@@ -2,9 +2,9 @@
   <img src="./LinkedInBanner3.jpeg" width="100%" alt="Banner"/>
 </p>
 
-## Welcome!
+## Welcome, I'm Melkamu Woldemariam!
 
-My name is Melkamu Woldemariam and I am a scientist turned software engineer who is passionate about data-driven decision making and creating digital products that enhance business operations and user experience.
+I am a scientist turned software engineer who is passionate about data-driven decision making and creating digital products that enhance business operations and user experience.
 
 I am fluent in full-stack development using the MERN Stack and data analytics using Python, R, mySQL, mongoDB, Tableau and SPSS. More importantly, I am a lifelong learner who is passionate about the tech space and a futurist who aspires to be part of next-generation technological innovations. 
 
