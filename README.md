@@ -4,11 +4,26 @@
 
 ## Welcome!
 
-My name is Melkamu Woldemariam and I am a scientist turned software engineer, skilled across the stack and fluent in HTML, CSS, JavaScript, React, Node.js, and Python. I am experienced with data analytics using Python, R, mySQL, mongoDB, Tableau and SPSS. I am passionate about data-driven decision making and creating digital products that enhance business operations and user experience. 
+My name is Melkamu Woldemariam and I am a scientist turned software engineer who is passionate about data-driven decision making and creating digital products that enhance business operations and user experience.
 
-Currently, I am working on three full-stack projects that are ready for deployment. I have also deployed two digital products for public use. 
+I am fluent in full-stack development using the MERN Stack and data analytics using Python, R, mySQL, mongoDB, Tableau and SPSS. More importantly, I am a lifelong learner who is passionate about the tech space and a futurist who aspires to be part of next-generation technological innovations. 
 
+I have built and deployed digital products for public use and I am, currently, working on several full-stack and data analytics projects that are ready for deployment. 
 
+## Technical/programming skills:
+- React
+- Node.js
+- Express.js
+- MongoDB
+- CSS
+- Tailwind CSS
+- HTML
+- Python
+- R
+- SPSS
+
+## How to reach me:
+- LinkedIn: www.linkedin.com/in/melkamuwoldemariam
 <!--
 **MelkWold/MelkWold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
