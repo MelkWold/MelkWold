@@ -31,7 +31,7 @@ I have built and deployed digital products for public use and I am, currently, w
   - Agile frameworks
 </p>
 
-<h3 align='center'>How to reach me:</h3> 
+<h3>How to reach me:</h3> 
 - LinkedIn: www.linkedin.com/in/melkamuwoldemariam
 <!--
 **MelkWold/MelkWold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
