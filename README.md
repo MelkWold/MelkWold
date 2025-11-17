@@ -26,12 +26,12 @@ I have built and deployed digital products for public use and I am, currently, w
   |      JWT           |                           |
 
 <h2 align='center'> Project management: </h2>
-<ul align='center'>
-  <li align='center'>JIRA/Atlassian</li> 
-  <li align='center'>Agile frameworks</li> 
+<ul>
+  <li>JIRA/Atlassian</li> 
+  <li>Agile frameworks</li> 
 </ul>
 
-<h2 align="center">How to reach me:</h2> 
+<h2>How to reach me:</h2> 
 - LinkedIn: www.linkedin.com/in/melkamuwoldemariam
 <!--
 **MelkWold/MelkWold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
