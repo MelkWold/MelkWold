@@ -11,16 +11,18 @@ I am fluent in full-stack development using the MERN Stack and data analytics us
 I have built and deployed digital products for public use and I am, currently, working on several full-stack and data analytics projects that are ready for deployment. 
 
 ## Technical/programming skills:
-- React
-- Node.js
-- Express.js
-- MongoDB
-- CSS
-- Tailwind CSS
-- HTML
-- Python
-- R
-- SPSS
+
+|  **Full-stack**  |     **Data Analytics**    |
+| -----------------| ------------------------- |
+|   React          |            Python         |
+|   Node.js        |            R              |
+|   Express.js     |            SPSS           |
+|   CSS            |            JMP            |
+|   MongoDB        |            MongoDB        |
+|   Tailwind CSS   |            MySQL          |
+|   HTML           |            Tableau        |
+|   React          |            Python         |
+
 
 ## How to reach me:
 - LinkedIn: www.linkedin.com/in/melkamuwoldemariam
