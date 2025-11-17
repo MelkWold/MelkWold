@@ -27,8 +27,8 @@ I have built and deployed digital products for public use and I am, currently, w
 
 <h2 align='center'> Project management: </h2>
 <ul align='center'>
-  <li>JIRA/Atlassian</li> 
-  <li>Agile frameworks</li> 
+  <li align='center'>JIRA/Atlassian</li> 
+  <li align='center'>Agile frameworks</li> 
 </ul>
 
 <h2 align="center">How to reach me:</h2> 
